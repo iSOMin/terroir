@@ -1,79 +1,80 @@
-[
-  {
-    "id": 1,
-    "name": "Brunello di Montalcino",
-    "country": "Italy",
-    "region": "Toscana",
-    "type": "red",
-    "grapeVariety": [
-      { "variety" : "Sangiovese", "content" : "100%" }
-    ],
-    "image": "http://enoteca.co.kr/userfiles/wine/가야-브루넬로-디-몬탈치노.png"
-  },
-  {
-    "id": 2,
-    "name": "Casa Rojo Musso Rose",
-    "country": "Spain",
-    "region": "Castilla",
-    "type": "rose",
-    "grapeVariety": "Garnacha",
-    "image": "http://enoteca.co.kr/userfiles/wine/1536036519_wine.jpg"
-  },
-  {
-    "id": 3,
-    "name": "Bruno Giacosa Nebbiolo d’Alba",
-    "country": "Italy",
-    "region": "Piemonte",
-    "type": "red",
-    "grapeVariety": [
-      { "variety" : "Nebbiolo", "content" : "100%" }
-    ],
-    "image": "http://enoteca.co.kr/userfiles/wine/1545380108_wine.pngg"
-  },
-  {
-    "id": 4,
-    "name": "Moorilla Muse Pinot Noir",
-    "country": "Australia",
-    "region": "tasmania",
-    "type": "red",
-    "grapeVariety": [
-      { "variety" : "Pino Noir", "content" : "100%" }
-    ],
-    "image": "http://enoteca.co.kr/userfiles/wine/무릴라-뮤즈-피노-누아.png"
-  },
-  {
-    "id": 5,
-    "name": "Contratto De Miranda Asti Spumante",
-    "country": "Italy",
-    "region": "Piemonte",
-    "type": "sparkling",
-    "grapeVariety": [
-      { "variety" : "Moscato", "content" : "100%" }
-    ],
-    "image": "http://enoteca.co.kr/userfiles/wine/드-미란다-아스티-스푸만테.png"
-  },
-  {
-    "id": 6,
-    "name": "Cavallotto Barbera d'Alba Superiore Vigna del Cucu",
-    "country": "Italy",
-    "region": "Piemonte",
-    "type": "red",
-    "grapeVariety": [
-      { "variety" : "Barbera", "content" : "100%" }
-    ],
-    "image": "http://enoteca.co.kr/userfiles/wine/카발로또-바르베라-달바-수페리오레-비냐-쿠쿨로.png"
-  },
-  {
-    "id": 7,
-    "name": "Agricola Punica Samas",
-    "country": "Italy",
-    "region": "Toscana",
-    "type": "white",
-    "grapeVariety": [
-      { "variety" : "Vermentino", "content" : "80%" },
-      { "variety" : "Chardonnay", "content" : "20%" } 
-    ],
-    "image": "http://enoteca.co.kr/userfiles/wine/1545379521_wine.png"
-  }
-]
-  
+{
+  "result": [
+    {
+      "id": 1,
+      "name": "Brunello di Montalcino",
+      "country": "Italy",
+      "region": "Toscana",
+      "type": "red",
+      "grapeVariety": [
+        { "variety" : "Sangiovese", "content" : "100%" }
+      ],
+      "image": "http://enoteca.co.kr/userfiles/wine/가야-브루넬로-디-몬탈치노.png"
+    },
+    {
+      "id": 2,
+      "name": "Casa Rojo Musso Rose",
+      "country": "Spain",
+      "region": "Castilla",
+      "type": "rose",
+      "grapeVariety": "Garnacha",
+      "image": "http://enoteca.co.kr/userfiles/wine/1536036519_wine.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bruno Giacosa Nebbiolo d’Alba",
+      "country": "Italy",
+      "region": "Piemonte",
+      "type": "red",
+      "grapeVariety": [
+        { "variety" : "Nebbiolo", "content" : "100%" }
+      ],
+      "image": "http://enoteca.co.kr/userfiles/wine/1545380108_wine.pngg"
+    },
+    {
+      "id": 4,
+      "name": "Moorilla Muse Pinot Noir",
+      "country": "Australia",
+      "region": "tasmania",
+      "type": "red",
+      "grapeVariety": [
+        { "variety" : "Pino Noir", "content" : "100%" }
+      ],
+      "image": "http://enoteca.co.kr/userfiles/wine/무릴라-뮤즈-피노-누아.png"
+    },
+    {
+      "id": 5,
+      "name": "Contratto De Miranda Asti Spumante",
+      "country": "Italy",
+      "region": "Piemonte",
+      "type": "sparkling",
+      "grapeVariety": [
+        { "variety" : "Moscato", "content" : "100%" }
+      ],
+      "image": "http://enoteca.co.kr/userfiles/wine/드-미란다-아스티-스푸만테.png"
+    },
+    {
+      "id": 6,
+      "name": "Cavallotto Barbera d'Alba Superiore Vigna del Cucu",
+      "country": "Italy",
+      "region": "Piemonte",
+      "type": "red",
+      "grapeVariety": [
+        { "variety" : "Barbera", "content" : "100%" }
+      ],
+      "image": "http://enoteca.co.kr/userfiles/wine/카발로또-바르베라-달바-수페리오레-비냐-쿠쿨로.png"
+    },
+    {
+      "id": 7,
+      "name": "Agricola Punica Samas",
+      "country": "Italy",
+      "region": "Toscana",
+      "type": "white",
+      "grapeVariety": [
+        { "variety" : "Vermentino", "content" : "80%" },
+        { "variety" : "Chardonnay", "content" : "20%" } 
+      ],
+      "image": "http://enoteca.co.kr/userfiles/wine/1545379521_wine.png"
+    }
+  ]
+}  
