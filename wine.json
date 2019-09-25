@@ -2,13 +2,12 @@
   "result": [
     {
       "id": 1,
-      "name": "Brunello di Montalcino",
+      "name": "Gaja, Brunello di Montalcino",
       "country": "Italy",
       "region": "Toscana",
       "type": "red",
-      "grapeVariety": [
-        { "variety" : "Sangiovese", "content" : "100%" }
-      ],
+      "grapeVariety": "Sangiovese",
+      "winery": "Gaja",
       "image": "http://enoteca.co.kr/userfiles/wine/가야-브루넬로-디-몬탈치노.png"
     },
     {
@@ -18,6 +17,7 @@
       "region": "Castilla",
       "type": "rose",
       "grapeVariety": "Garnacha",
+      "winery": "Casa Rojo",
       "image": "http://enoteca.co.kr/userfiles/wine/1536036519_wine.jpg"
     },
     {
@@ -26,9 +26,8 @@
       "country": "Italy",
       "region": "Piemonte",
       "type": "red",
-      "grapeVariety": [
-        { "variety" : "Nebbiolo", "content" : "100%" }
-      ],
+      "grapeVariety": "Nebbiolo",
+      "winery": "Bruno Giacosa",
       "image": "http://enoteca.co.kr/userfiles/wine/1545380108_wine.pngg"
     },
     {
@@ -37,9 +36,8 @@
       "country": "Australia",
       "region": "tasmania",
       "type": "red",
-      "grapeVariety": [
-        { "variety" : "Pino Noir", "content" : "100%" }
-      ],
+      "grapeVariety": "Pino Noir",
+      "winery": "Moorilla",
       "image": "http://enoteca.co.kr/userfiles/wine/무릴라-뮤즈-피노-누아.png"
     },
     {
@@ -48,9 +46,8 @@
       "country": "Italy",
       "region": "Piemonte",
       "type": "sparkling",
-      "grapeVariety": [
-        { "variety" : "Moscato", "content" : "100%" }
-      ],
+      "grapeVariety": "Moscato",
+      "winery": "Contratto",
       "image": "http://enoteca.co.kr/userfiles/wine/드-미란다-아스티-스푸만테.png"
     },
     {
@@ -59,9 +56,8 @@
       "country": "Italy",
       "region": "Piemonte",
       "type": "red",
-      "grapeVariety": [
-        { "variety" : "Barbera", "content" : "100%" }
-      ],
+      "grapeVariety": "Barbera",
+      "winery": "Cavallotto",
       "image": "http://enoteca.co.kr/userfiles/wine/카발로또-바르베라-달바-수페리오레-비냐-쿠쿨로.png"
     },
     {
@@ -70,10 +66,8 @@
       "country": "Italy",
       "region": "Toscana",
       "type": "white",
-      "grapeVariety": [
-        { "variety" : "Vermentino", "content" : "80%" },
-        { "variety" : "Chardonnay", "content" : "20%" } 
-      ],
+      "winery": "Agricola Punica",
+      "grapeVariety": "Vermentino, Chardonnay",
       "image": "http://enoteca.co.kr/userfiles/wine/1545379521_wine.png"
     }
   ]
