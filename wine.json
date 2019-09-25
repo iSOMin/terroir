@@ -3,8 +3,8 @@
     "id": 1,
     "name": "Brunello di Montalcino",
     "country": "Italy",
-    "region": "Toscana"
-    "type": "red"
+    "region": "Toscana",
+    "type": "red",
     "grapeVariety": [
       { "variety" : "Sangiovese", "content" : "100%" }
     ],
@@ -14,8 +14,8 @@
     "id": 2,
     "name": "Casa Rojo Musso Rose",
     "country": "Spain",
-    "region": "Castilla"
-    "type": "rose"
+    "region": "Castilla",
+    "type": "rose",
     "grapeVariety": "Garnacha",
     "image": "http://enoteca.co.kr/userfiles/wine/1536036519_wine.jpg"
   },
@@ -23,8 +23,8 @@
     "id": 3,
     "name": "Bruno Giacosa Nebbiolo d’Alba",
     "country": "Italy",
-    "region": "Piemonte"
-    "type": "red"
+    "region": "Piemonte",
+    "type": "red",
     "grapeVariety": [
       { "variety" : "Nebbiolo", "content" : "100%" }
     ],
@@ -34,8 +34,8 @@
     "id": 4,
     "name": "Moorilla Muse Pinot Noir",
     "country": "Australia",
-    "region": "tasmania"
-    "type": "red"
+    "region": "tasmania",
+    "type": "red",
     "grapeVariety": [
       { "variety" : "Pino Noir", "content" : "100%" }
     ],
@@ -45,8 +45,8 @@
     "id": 5,
     "name": "Contratto De Miranda Asti Spumante",
     "country": "Italy",
-    "region": "Piemonte"
-    "type": "sparkling"
+    "region": "Piemonte",
+    "type": "sparkling",
     "grapeVariety": [
       { "variety" : "Moscato", "content" : "100%" }
     ],
@@ -56,8 +56,8 @@
     "id": 6,
     "name": "Cavallotto Barbera d'Alba Superiore Vigna del Cucu",
     "country": "Italy",
-    "region": "Piemonte"
-    "type": "red"
+    "region": "Piemonte",
+    "type": "red",
     "grapeVariety": [
       { "variety" : "Barbera", "content" : "100%" }
     ],
@@ -67,8 +67,8 @@
     "id": 7,
     "name": "Agricola Punica Samas",
     "country": "Italy",
-    "region": "Toscana"
-    "type": "white"
+    "region": "Toscana",
+    "type": "white",
     "grapeVariety": [
       { "variety" : "Vermentino", "content" : "80%" },
       { "variety" : "Chardonnay", "content" : "20%" } 
