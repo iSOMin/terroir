@@ -2,7 +2,8 @@
   "result" : [
     {
       "id": 1,
-      "name": "소민소민"
+      "name": "소민소민",
+      "profileImageUrl": "https://avatars2.githubusercontent.com/u/21994083?s=460&v=4"
      }
   ]
 }
