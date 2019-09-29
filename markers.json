@@ -11,8 +11,8 @@
       },
       {
           "latlng": {
-              "latitude": 35.156765,
-              "longitude": 129.055862
+              "latitude": 38.988266,
+              "longitude": -1.861976
           },
           "region": "Castilla", 
           "country": "Spain",
@@ -20,8 +20,8 @@
       },
       {
           "latlng": {
-              "latitude": 35.156765,
-              "longitude": 129.055862
+              "latitude": 45.116177,
+              "longitude": 7.742615
           },
           "region": "Piemonte", 
           "country": "Italy",
@@ -29,8 +29,8 @@
       },
       {
           "latlng": {
-              "latitude": 35.156765,
-              "longitude": 129.055862
+              "latitude": -41.640079,
+              "longitude": 146.315918
           },
           "region": "Tasmania", 
           "country": "Australia",
