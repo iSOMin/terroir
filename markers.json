@@ -6,7 +6,7 @@
               "longitude": 127.024612
           },
           "region": "Seoul", 
-          "country:: "South Korea",
+          "country": "South Korea",
           "likeCount": 1
       },
       {
@@ -15,7 +15,7 @@
               "longitude": 129.055862
           },
           "region": "Busan", 
-          "country:: "South Korea",
+          "country": "South Korea",
           "likeCount": 3
       }
   ]
