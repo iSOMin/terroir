@@ -1,8 +1,8 @@
 {
-  "result": {
+  "result": [{
         "latitude": 37.532600,
         "longitude": 127.024612,
         "latitudeDelta": 50,
         "longitudeDelta": 100
-    }
+    }]
 }
