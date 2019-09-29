@@ -1,0 +1,22 @@
+{
+  "result": [
+      {
+          "latlng": {
+              "latitude": 37.532600,
+              "longitude": 127.024612
+          },
+          "region": "Seoul", 
+          "country:: "South Korea",
+          "likeCount": 1
+      },
+      {
+          "latlng": {
+              "latitude": 35.156765,
+              "longitude": 129.055862
+          },
+          "region": "Busan", 
+          "country:: "South Korea",
+          "likeCount": 3
+      }
+  ]
+}
