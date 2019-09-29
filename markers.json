@@ -5,8 +5,17 @@
               "latitude": 37.532600,
               "longitude": 127.024612
           },
-          "region": "Seoul", 
-          "country": "South Korea",
+          "region": "Toscana", 
+          "country": "Italy",
+          "likeCount": 2
+      },
+      {
+          "latlng": {
+              "latitude": 35.156765,
+              "longitude": 129.055862
+          },
+          "region": "Castilla", 
+          "country": "Spain",
           "likeCount": 1
       },
       {
@@ -14,9 +23,18 @@
               "latitude": 35.156765,
               "longitude": 129.055862
           },
-          "region": "Busan", 
-          "country": "South Korea",
+          "region": "Piemonte", 
+          "country": "Italy",
           "likeCount": 3
+      },
+      {
+          "latlng": {
+              "latitude": 35.156765,
+              "longitude": 129.055862
+          },
+          "region": "Tasmania", 
+          "country": "Australia",
+          "likeCount": 1
       }
   ]
 }
