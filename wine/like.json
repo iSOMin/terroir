@@ -23,28 +23,6 @@
       "like": true
     },
     {
-      "id": 3,
-      "name": "Bruno Giacosa Nebbiolo d’Alba",
-      "country": "Italy",
-      "region": "Piemonte",
-      "type": "red",
-      "grapeVariety": "Nebbiolo",
-      "winery": "Bruno Giacosa",
-      "image": "http://enoteca.co.kr/userfiles/wine/1545380108_wine.png",
-      "like": true
-    },
-    {
-      "id": 4,
-      "name": "Moorilla Muse Pinot Noir",
-      "country": "Australia",
-      "region": "tasmania",
-      "type": "red",
-      "grapeVariety": "Pino Noir",
-      "winery": "Moorilla",
-      "image": "http://enoteca.co.kr/userfiles/wine/무릴라-뮤즈-피노-누아.png",
-      "like": true
-    },
-    {
       "id": 5,
       "name": "Contratto De Miranda Asti Spumante",
       "country": "Italy",
