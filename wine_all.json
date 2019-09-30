@@ -8,7 +8,8 @@
       "type": "red",
       "grapeVariety": "Sangiovese",
       "winery": "Gaja",
-      "image": "http://enoteca.co.kr/userfiles/wine/가야-브루넬로-디-몬탈치노.png"
+      "image": "http://enoteca.co.kr/userfiles/wine/가야-브루넬로-디-몬탈치노.png",
+      "like": true
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "type": "rose",
       "grapeVariety": "Garnacha",
       "winery": "Casa Rojo",
-      "image": "http://enoteca.co.kr/userfiles/wine/1536036519_wine.jpg"
+      "image": "http://enoteca.co.kr/userfiles/wine/1536036519_wine.jpg",
+      "like": true
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "type": "red",
       "grapeVariety": "Nebbiolo",
       "winery": "Bruno Giacosa",
-      "image": "http://enoteca.co.kr/userfiles/wine/1545380108_wine.png"
+      "image": "http://enoteca.co.kr/userfiles/wine/1545380108_wine.png",
+      "like": true
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "type": "red",
       "grapeVariety": "Pino Noir",
       "winery": "Moorilla",
-      "image": "http://enoteca.co.kr/userfiles/wine/무릴라-뮤즈-피노-누아.png"
+      "image": "http://enoteca.co.kr/userfiles/wine/무릴라-뮤즈-피노-누아.png",
+      "like": true
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "type": "sparkling",
       "grapeVariety": "Moscato",
       "winery": "Contratto",
-      "image": "http://enoteca.co.kr/userfiles/wine/드-미란다-아스티-스푸만테.png"
+      "image": "http://enoteca.co.kr/userfiles/wine/드-미란다-아스티-스푸만테.png",
+      "like": true
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "type": "red",
       "grapeVariety": "Barbera",
       "winery": "Cavallotto",
-      "image": "http://enoteca.co.kr/userfiles/wine/카발로또-바르베라-달바-수페리오레-비냐-쿠쿨로.png"
+      "image": "http://enoteca.co.kr/userfiles/wine/카발로또-바르베라-달바-수페리오레-비냐-쿠쿨로.png",
+      "like": true
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "type": "white",
       "winery": "Agricola Punica",
       "grapeVariety": "Vermentino, Chardonnay",
-      "image": "http://enoteca.co.kr/userfiles/wine/1545379521_wine.png"
+      "image": "http://enoteca.co.kr/userfiles/wine/1545379521_wine.png",
+      "like": true
     }
   ]
 }  
