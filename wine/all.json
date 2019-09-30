@@ -31,7 +31,7 @@
       "grapeVariety": "Nebbiolo",
       "winery": "Bruno Giacosa",
       "image": "http://enoteca.co.kr/userfiles/wine/1545380108_wine.png",
-      "like": true
+      "like": false
     },
     {
       "id": 4,
@@ -42,7 +42,7 @@
       "grapeVariety": "Pino Noir",
       "winery": "Moorilla",
       "image": "http://enoteca.co.kr/userfiles/wine/무릴라-뮤즈-피노-누아.png",
-      "like": true
+      "like": false
     },
     {
       "id": 5,
